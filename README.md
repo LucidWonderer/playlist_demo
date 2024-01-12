@@ -1,2 +1,2 @@
 # playlist_demo
-Demo for a playlist application
+Demo for a playlist application.
